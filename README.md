@@ -1,6 +1,6 @@
 # 📂 Personal Portfolio Website
 
-A clean, modern, and fully responsive personal portfolio website built from scratch using core web technologies. This site showcases my skills, featured projects, professional experience, and contact information.
+A clean, modern, and fully responsive personal portfolio website built from scratch using core web technologies. This site showcases my skills, featured projects, professional experience, and contact information. 
 
 🚀 **[Live Demo Link](https://adithya519b.github.io/Adithya-Portfolio/)**
 
